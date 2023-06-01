@@ -3,8 +3,8 @@
 }
 
 #text h1{
-    font-size: 52px !important;
-    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 40px !important;
+    font-family: 'Inter', 'Arial','Helvetica', 'sans-serif';
 }
 #text p{
     font-family: 'IBM Plex Sans', sans-serif;
@@ -18,7 +18,7 @@ font-weight: 300;
 }
 #text{
     margin-top: 4%; 
-    margin-left: -17%;
+    margin-left: -6%;
 }
 #text button{
     background-color: #199BF1;
