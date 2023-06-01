@@ -1,0 +1,35 @@
+#cards{
+    background-color: #199BF1;
+    color: #fff !important;
+}
+#cards a{
+    font-size: 15px;
+}
+#tip span{
+    color: #199BF1;
+}
+#tip{
+    margin-top: 6%;
+}
+#tip p{
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+#second{
+    display: flex;
+    justify-content: space-between;
+}
+#second img{
+    border-radius: 8%;
+}
+#second img:hover{
+    background-color: grey !important;
+}
+
+#tip h5{
+    color: grey;
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+#tip h1{
+    font-family: 'IBM Plex Sans', sans-serif;
+}
