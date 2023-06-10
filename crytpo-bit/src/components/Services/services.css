@@ -34,3 +34,14 @@
 #tip h1{
     font-family: 'Inter', 'Arial','Helvetica', 'sans-serif';
 }
+
+@media screen and (max-width: 992px) {
+    #second{
+    display:inline;
+    margin-top:3%;
+    }
+
+    #mad{
+        margin-bottom:4%;
+    }
+}

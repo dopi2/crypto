@@ -32,3 +32,19 @@ font-weight: 300;
 #text span{
     color: #199BF1;
 }
+
+@media screen and (max-width: 992px)  {
+   #bg1 img{
+width: 100%;
+   }
+   #text{
+    margin-top: 78%; 
+    margin-left: -99%;
+}
+#text h1{
+    font-size: 30px !important;
+}
+#text p{
+    font-size: 15px;
+}
+}

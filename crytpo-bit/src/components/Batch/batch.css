@@ -1,0 +1,33 @@
+#tap{
+    margin-top: 9%;
+    background-color: #199BF1 !important;
+}
+
+#loud{
+    border-radius: 20%;
+}
+.btn {
+    background-color: #199BF1;
+    color: #fff !important;
+}
+#tap p{
+    font-size: 18px;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-weight: 300;
+}
+
+#tap h6{
+    margin-top: 15%;
+    color: #199BF1;
+    font-family: 'Inter', 'Arial','Helvetica', 'sans-serif';
+}
+
+@media screen and (max-width: 992px) {
+    #loud{
+        width: 90%;
+    }
+    #mit{
+        margin-top: 70%;
+        margin-left: -90%;
+    }
+}

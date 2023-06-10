@@ -3,9 +3,11 @@ import React from 'react'
 import './services.css'
 import img1 from '../images/home_card_inner-990x1200.jpg'
 import img2 from '../images/post_09-990x1200.jpg'
+import Slide from 'react-reveal/Slide';
 const service = () => {
   return (
     <div id='tip'>
+       <Slide bottom>
       <div className="container text-center">
   <div className="row">
     <div className="col">
@@ -17,11 +19,12 @@ const service = () => {
           </a></button>
     </div>
     <div className="col" id='second'>
-   <img src={img1} width={250}/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src={img1} width={250} id="mad"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img src={img2} width={250}/>
     </div>
     </div>
     </div>
+    </Slide>
     </div>
   )
 }
