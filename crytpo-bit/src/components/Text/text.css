@@ -1,0 +1,30 @@
+#lim h6{
+    color: #199BF1;
+    font-size: 19px;
+    font-family: 'Inter', 'Arial','Helvetica', 'sans-serif';
+}
+#hap{
+    font-size: 20px;
+}
+#lim{
+    padding-top: 6%;
+    padding-left: 5%;
+}
+#lim h1{
+margin-bottom: 2%;
+font-family: 'Inter', 'Arial','Helvetica', 'sans-serif';
+    color: #fff;
+}
+
+#lim h3{
+    color: #fff;
+    font-family: 'Inter', 'Arial','Helvetica', 'sans-serif';
+    margin-bottom: 3%;
+}
+
+#lim p{
+    color: #fff;
+    font-size: 18px;
+    font-weight: 300;
+    font-family: 'IBM Plex Sans', sans-serif;
+}

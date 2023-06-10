@@ -1,0 +1,33 @@
+#topee{
+    margin-top: 3%;
+}
+
+#work h4{
+    color: #199BF1;
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+#work p{
+    font-weight: 300;
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+#work {
+    margin-bottom: 4%;
+}
+
+#work2 h5{
+    color: #199BF1;
+}
+#whole{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 2%;
+    border-radius: 10%;
+}
+#whole2{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 2%;
+    border-radius: 10%;
+}
+#work2 p{
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-weight: 300;
+}

@@ -1,0 +1,15 @@
+#flati{
+    margin-top: 13%;
+}
+
+#flati p{
+    font-size: 18px;
+}
+
+@media screen and (max-width: 992px) {
+    #flati{
+        margin-top:46%;
+        display:none;
+    }
+   
+}

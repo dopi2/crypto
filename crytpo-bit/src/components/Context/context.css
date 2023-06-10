@@ -1,0 +1,39 @@
+#wholee{
+    margin-top:6%;
+}
+#time h1{
+    font-size: 60px;
+    margin-bottom: 3%;
+}
+
+#dami label{
+    font-size: 20px !important;
+    font-weight: 100;
+    color: #199BF1;
+    float: left;
+}
+.btn a{
+    color: #fff !important;
+    text-decoration: none !important;
+}
+#btn:hover{
+    color: red !important;
+}
+.btn{
+    text-decoration: none;
+}
+#time h4{
+    font-size: 30px;
+}
+#time span{
+    color: #199BF1;
+    font-size: 20px !important;
+}
+#time p{
+    font-size: 20px;
+}
+#dami{
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    padding: 3%;
+    border-radius: 2%;
+}
