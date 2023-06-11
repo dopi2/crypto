@@ -10,7 +10,7 @@ function ContactForm() {
   }
   return (
 <div className="container text-center" id='wholee'>
-  <div className="row">
+  <div className="row" id='made'>
     <div className="col" id='time'>
       <h1> Contact Us</h1>
 

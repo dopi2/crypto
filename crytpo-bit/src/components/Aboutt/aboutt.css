@@ -31,3 +31,13 @@
     font-family: 'IBM Plex Sans', sans-serif;
     font-weight: 300;
 }
+
+@media screen and (max-width: 992px){
+    #work2{
+        display: inline-block;
+    }
+
+    #whole2{
+        margin-bottom: 5%;
+    }
+}

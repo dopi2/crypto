@@ -37,3 +37,9 @@
     padding: 3%;
     border-radius: 2%;
 }
+
+@media screen and (max-width: 992px){
+    #made{
+        display:inline-block;
+    }
+}
